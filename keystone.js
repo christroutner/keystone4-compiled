@@ -34,7 +34,7 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'User',
-	'mongo': 'mongodb://172.17.0.1:3005/test'
+	'mongo': 'mongodb://172.17.0.1:3500/test'
 });
 
 // Load your project's Models
