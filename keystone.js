@@ -11,8 +11,8 @@ var handlebars = require('express-handlebars');
 // and documentation.
 
 keystone.init({
-	'name': 'test',
-	'brand': 'test',
+	'name': 'My Site',
+	'brand': 'My Site',
 
 	'less': 'public',
 	'static': 'public',

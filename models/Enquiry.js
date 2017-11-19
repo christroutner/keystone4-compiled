@@ -60,10 +60,10 @@ Enquiry.schema.methods.sendNotificationEmail = function (callback) {
 		}).send({
 			to: admins,
 			from: {
-				name: 'test',
-				email: 'contact@test.com',
+				name: 'My Site',
+				email: 'contact@my-site.com',
 			},
-			subject: 'New Enquiry for test',
+			subject: 'New Enquiry for My Site',
 			enquiry: enquiry,
 			brand: brand,
 			layout: false,

@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "my-site",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -9,8 +9,8 @@
     "cloudinary": "1.7.0",
     "express-handlebars": "3.0.0",
     "handlebars": "4.0.6",
-    "dotenv": "4.0.0", 
-    "keystone-email": "1.0.5", 
+    "dotenv": "4.0.0",
+    "keystone-email": "1.0.5",
     "async": "2.1.4"
   },
   "devDependencies": {
